@@ -1,0 +1,21 @@
+{
+  "name": "NodeDirectUploader",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "ejs": "*",
+    "aws-sdk": "*"
+  },
+  "description": "NodeDirectUploader\r ===================",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines" : {
+  "node" : "0.10.x"
+  }
+}
